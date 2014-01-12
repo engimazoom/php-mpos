@@ -233,6 +233,13 @@ Small Time Miners are running various stratum only pools for different coins.
 | -------------------------------- | -------- | ------------- | ------------------: | ------------------------- |
 | http://newbiepool.szimre.net | Mincoin | Low   | 1-20 workers| PPLNS + VARDIFF + 1% Fee  |
 
+### Dark Stranger
+### Anoncoin Mining Pool
+
+| Pool URL                         | Coin     | Avg. Hashrate | Avg. Active Workers |          Notes            |
+| -------------------------------- | -------- | ------------- | ------------------: | ------------------------- |
+| https://anoncoinpool.net | Anoncoin | 160 Mh/s   | 210+ workers| PROP + VARDIFF + 0% Fee  |
+
 ### RonPaulCoin pool
 ### Pool for RonPaulCoin using MPOS.
 
